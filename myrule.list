@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,idaa.shuzilm.com,REJECT
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com,REJECT
 DOMAIN-SUFFIX,dm.toutiao.com,REJECT
 DOMAIN-SUFFIX,sqdd.myapp.com,REJECT
-DOMAIN-SUFFIX,szextshort.weixin.qq.com,REJECT
-DOMAIN-SUFFIX,msgacs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com,REJECT
