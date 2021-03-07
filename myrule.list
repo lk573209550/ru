@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,msgacs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,apoll.m.taobao.com,REJECT
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com,REJECT
-
+DOMAIN-SUFFIX,szminorshrot.weixin.qq.com,REJECT
