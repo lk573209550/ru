@@ -12,5 +12,5 @@ DOMAIN-SUFFIX, eco.taobao.com, reject
 DOMAIN-SUFFIX, janapi.jd.com, reject
 DOMAIN-SUFFIX, xlog.jd.com, reject
 DOMAIN-SUFFIX, dsp-x.jd.com, reject
-DOMAIN-SUFFIX, china-img.soulapp.cn, reject
 DOMAIN-SUFFIX, tnc3-aliec2.snssdk.com, reject
+DOMAIN-SUFFIX, soul-terminal.soulapp.cn, reject
