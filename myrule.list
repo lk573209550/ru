@@ -5,3 +5,4 @@ DOMAIN-SUFFIX, ad-r.soulapp.cn, reject
 DOMAIN-SUFFIX, ad-h5-station-cdn.soulapp.cn, reject
 DOMAIN-SUFFIX, china-img-soulapp.cn, reject
 DOMAIN-SUFFIX, soul-ad.soulapp.cn, reject
+DOMAIN-SUFFIX, soul-ad.oss-cn-hangzhou.aliyuncs.com, reject
