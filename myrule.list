@@ -8,3 +8,8 @@ DOMAIN-SUFFIX, soul-ad.soulapp.cn, reject
 DOMAIN-SUFFIX, soul-ad.oss-cn-hangzhou.aliyuncs.com, reject
 DOMAIN-SUFFIX, gateway2-tcp-spam.soulapp.cn, reject
 DOMAIN-SUFFIX, fe-media.soulapp.cn, reject
+DOMAIN-SUFFIX, eco.taobao.com, reject
+DOMAIN-SUFFIX, janapi.jd.com, reject
+DOMAIN-SUFFIX, xlog.jd.com, reject
+DOMAIN-SUFFIX, dsp-x.jd.com, reject
+DOMAIN-SUFFIX, china-img.soulapp.cn, reject
