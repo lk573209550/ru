@@ -3,7 +3,7 @@ DOMAIN-SUFFIX, daa.shuzilm.cn, reject
 DOMAIN-SUFFIX, ad.soulapp.cn, reject
 DOMAIN-SUFFIX, ad-r.soulapp.cn, reject
 DOMAIN-SUFFIX, ad-h5-station-cdn.soulapp.cn, reject
-DOMAIN-SUFFIX, china-img-soulapp.cn, reject
+DOMAIN-SUFFIX, img-soulapp.cn, reject
 DOMAIN-SUFFIX, soul-ad.soulapp.cn, reject
 DOMAIN-SUFFIX, soul-ad.oss-cn-hangzhou.aliyuncs.com, reject
 DOMAIN-SUFFIX, gateway2-tcp-spam.soulapp.cn, reject
@@ -13,4 +13,5 @@ DOMAIN-SUFFIX, janapi.jd.com, reject
 DOMAIN-SUFFIX, xlog.jd.com, reject
 DOMAIN-SUFFIX, dsp-x.jd.com, reject
 DOMAIN-SUFFIX, tnc3-aliec2.snssdk.com, reject
+DOMAIN-SUFFIX, soul-terminal.soulapp.cn, reject
 DOMAIN-SUFFIX, soul-terminal.soulapp.cn, reject
