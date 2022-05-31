@@ -1,4 +1,10 @@
 let obj = JSON.parse($response.body);
+obj.data["hasMyMeet"] = true;
 obj.data["superVIP"] = true;
 obj.data["showSuperVIP"] = true;
+obj.data["hasCancelVIPSubscription"] = true;
+obj.data["leftDay"] = true;
+obj.data["hasCancelVIPSubOfIAP"] = true;
+obj.data["needRestoreIAP"] = true;
+obj.data["remainDay"] = 9999;
 $done({body: JSON.stringify(obj)});
