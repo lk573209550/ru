@@ -1,2 +1,2 @@
 hostname = *.meituan.net
-^https://s3plus\.meituan\.net/v1/mss_[0-9a-f]+/api-service-public/[0-9a-f]+\.jpg url 302
+^https?://s3plus\.meituan\.net/v1/mss_[0-9a-f]+/api-service-public/[0-9a-f]+\.jpg url 302
