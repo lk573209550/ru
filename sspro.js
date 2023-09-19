@@ -16,9 +16,9 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
-const vip = '/activeMaxScore/totalScore';
+const Score = '/activeMaxScore/totalScore';
 
-if (url.indexOf(vip) != -1) {
+if (url.indexOf(Score) != -1) {
 	obj.data["activeMaxScore"] = "100";
 	obj.data["totalScore"] = "100";
 
