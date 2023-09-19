@@ -5,7 +5,7 @@
 QuantumultX:
 
 [rewrite_local]
-^https?://m.ishansong.com/(activationScore/client/home) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js
+^https?://m.ishansong.com/(activationScore/client/home) url script-response-body https://raw.githubusercontent.com/lk573209550/ru/main/sspro.js
 [mitm]
 hostname = m.ishansong.com
 
