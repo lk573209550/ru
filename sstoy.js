@@ -1,5 +1,5 @@
 let obj = {
-  "isHoldProp": false,
+  "isHoldProp": true,
   "propID": 25,
   "name": "闪送值加分卡",
   "buf": "",
