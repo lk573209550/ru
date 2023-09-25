@@ -1,9 +1,8 @@
 let obj = {
-  "isHoldProp": true,
-  "propID": 25,
-  "name": "闪送值加分卡",
-  "buf": "",
-  "isUsing": true
-};
+   "ecosysGoldToday" 
+      "gold" : 1671,
+      "goldToday" : 60,
+      "willExpiredTip" : ""
+    },
 
 $done({ body: JSON.stringify(obj) });
