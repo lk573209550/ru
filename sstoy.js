@@ -1,8 +1,3 @@
-let obj = {
-   "ecosysGoldToday" 
-      "gold" : 1671,
-      "goldToday" : 60,
-      "willExpiredTip" : ""
-    },
-
-$done({ body: JSON.stringify(obj) });
+let obj = JSON.parse($response.body);
+obj.data["gold"] = 10000
+$done({body: JSON.stringify(obj)});
